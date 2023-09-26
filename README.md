@@ -1,6 +1,5 @@
 # Habit Tracker  Project 
-Built using Nodejs, Ejs , CSS, Javascript , Bootstrap
-
+I created the Habit Tracker project using a tech stack that included Node.js for the backend, EJS for rendering dynamic web pages, Bootstrap CSS for styling, and HTML for the frontend structure.
 
 ## Features
 - Add Habit <br/>
